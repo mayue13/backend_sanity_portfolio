@@ -27,11 +27,11 @@
     "prop-types": "^15.7",
     "react": "^17.0",
     "react-dom": "^17.0",
-    "sanity-plugin-dashboard-widget-netlify": "^1.2.1",
     "sanity-plugin-vercel-deploy": "^2.1.6",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
-    "@sanity/cli": "^2.30.0"
+    "@sanity/cli": "^2.30.0",
+    "install-peers": "^1.0.4"
   }
 }
