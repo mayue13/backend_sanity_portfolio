@@ -16,6 +16,22 @@ export default {
                 name:'desc',
                 title:'Desc',
                 type:'string'
+            },
+            {
+                title: 'Joining date',
+                name: 'joiningDate',
+                type: 'date',
+                options: {
+                  dateFormat: 'MMM YYYY'
+                }
+              },
+            {
+                title: 'Release date',
+                name: 'releaseDate',
+                type: 'date',
+                options: {
+                  dateFormat: 'MMM YYYY'
+                }
             }
     ]
 }
