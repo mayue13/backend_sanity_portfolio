@@ -30,6 +30,11 @@ export default {
             name:'designation',
             title:'Designation',
             type:'string'
+        },
+        {
+            title: 'LinkedIn URL',
+             name: 'linkedInUrl',
+             type: 'url'
         }
     ]
 }
